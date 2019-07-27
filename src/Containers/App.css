@@ -1,0 +1,12 @@
+@font-face {
+font-family: 'brankovic';
+font-style: normal;
+font-weight: normal;
+src: local('brankovic'), url('brankovic.ttf') format('truetype');
+}
+
+h1, h2, a {
+	font-family: 'brankovic';
+	font-weight: 200;
+	color: black;
+}
