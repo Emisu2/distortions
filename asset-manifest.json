@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/playtime/static/css/main.2f38fb8f.chunk.css",
+    "main.js": "/playtime/static/js/main.4081418b.chunk.js",
+    "main.js.map": "/playtime/static/js/main.4081418b.chunk.js.map",
+    "runtime~main.js": "/playtime/static/js/runtime~main.cb9a5612.js",
+    "runtime~main.js.map": "/playtime/static/js/runtime~main.cb9a5612.js.map",
+    "static/css/2.31dafeb2.chunk.css": "/playtime/static/css/2.31dafeb2.chunk.css",
+    "static/js/2.a39019fa.chunk.js": "/playtime/static/js/2.a39019fa.chunk.js",
+    "static/js/2.a39019fa.chunk.js.map": "/playtime/static/js/2.a39019fa.chunk.js.map",
+    "index.html": "/playtime/index.html",
+    "precache-manifest.527709471c781819b14c8449bf874069.js": "/playtime/precache-manifest.527709471c781819b14c8449bf874069.js",
+    "service-worker.js": "/playtime/service-worker.js",
+    "static/css/2.31dafeb2.chunk.css.map": "/playtime/static/css/2.31dafeb2.chunk.css.map",
+    "static/css/main.2f38fb8f.chunk.css.map": "/playtime/static/css/main.2f38fb8f.chunk.css.map",
+    "static/media/App.css": "/playtime/static/media/brankovic.c04b8f55.ttf"
+  }
+}
