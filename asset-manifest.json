@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/disortions/static/css/main.efbe5c88.chunk.css",
-    "main.js": "/disortions/static/js/main.8c8dc21c.chunk.js",
-    "main.js.map": "/disortions/static/js/main.8c8dc21c.chunk.js.map",
-    "runtime~main.js": "/disortions/static/js/runtime~main.5fceb517.js",
-    "runtime~main.js.map": "/disortions/static/js/runtime~main.5fceb517.js.map",
-    "static/css/2.31dafeb2.chunk.css": "/disortions/static/css/2.31dafeb2.chunk.css",
-    "static/js/2.a39019fa.chunk.js": "/disortions/static/js/2.a39019fa.chunk.js",
-    "static/js/2.a39019fa.chunk.js.map": "/disortions/static/js/2.a39019fa.chunk.js.map",
-    "index.html": "/disortions/index.html",
-    "precache-manifest.9625e30b5825058b506b7d3e04750c35.js": "/disortions/precache-manifest.9625e30b5825058b506b7d3e04750c35.js",
-    "service-worker.js": "/disortions/service-worker.js",
-    "static/css/2.31dafeb2.chunk.css.map": "/disortions/static/css/2.31dafeb2.chunk.css.map",
-    "static/css/main.efbe5c88.chunk.css.map": "/disortions/static/css/main.efbe5c88.chunk.css.map",
-    "static/media/App.css": "/disortions/static/media/brankovic.c04b8f55.ttf"
+    "main.css": "/distortions/static/css/main.7c0516d2.chunk.css",
+    "main.js": "/distortions/static/js/main.fa40ea1e.chunk.js",
+    "main.js.map": "/distortions/static/js/main.fa40ea1e.chunk.js.map",
+    "runtime~main.js": "/distortions/static/js/runtime~main.d0c9efe5.js",
+    "runtime~main.js.map": "/distortions/static/js/runtime~main.d0c9efe5.js.map",
+    "static/css/2.31dafeb2.chunk.css": "/distortions/static/css/2.31dafeb2.chunk.css",
+    "static/js/2.a39019fa.chunk.js": "/distortions/static/js/2.a39019fa.chunk.js",
+    "static/js/2.a39019fa.chunk.js.map": "/distortions/static/js/2.a39019fa.chunk.js.map",
+    "index.html": "/distortions/index.html",
+    "precache-manifest.6ac4e51ae71b56fe73b71f648dfd14f2.js": "/distortions/precache-manifest.6ac4e51ae71b56fe73b71f648dfd14f2.js",
+    "service-worker.js": "/distortions/service-worker.js",
+    "static/css/2.31dafeb2.chunk.css.map": "/distortions/static/css/2.31dafeb2.chunk.css.map",
+    "static/css/main.7c0516d2.chunk.css.map": "/distortions/static/css/main.7c0516d2.chunk.css.map",
+    "static/media/App.css": "/distortions/static/media/brankovic.c04b8f55.ttf"
   }
 }
